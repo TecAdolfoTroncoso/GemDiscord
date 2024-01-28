@@ -1,0 +1,2 @@
+# GemDiscord
+Discord gemenis
